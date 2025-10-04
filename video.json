@@ -1,0 +1,62 @@
+[
+    {
+        "id": "feimao",
+        "name": "肥猫",
+        "api": "http://肥猫.com/",
+        "nsfw": false,
+        "type": 0,
+        "extra": {
+            "gfw": false
+        }
+    },
+    {
+        "id": "fantaiying",
+        "name": "饭太硬",
+        "api": "http://www.饭太硬.com/tv",
+        "nsfw": false,
+        "type": 0,
+        "extra": {
+            "gfw": false
+        }
+    },
+    {
+        "id": "xiaomi",
+        "name": "小米",
+        "api": "https://mpanso.me/DEMO.json",
+        "nsfw": false,
+        "type": 0,
+        "extra": {
+            "gfw": false
+        }
+    },
+    {
+        "id": "wangxiaoer",
+        "name": "王小二",
+        "api": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+        "nsfw": false,
+        "type": 0,
+        "extra": {
+            "gfw": false
+        }
+    },   
+    {
+        "id": "nanfeng",
+        "name": "南风",
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+        "nsfw": false,
+        "type": 0,
+        "extra": {
+            "gfw": false
+        }
+    },
+    {
+        "id": "cainisi",
+        "name": "菜妮丝 接口",
+        "api": "https://tvbox.cainisi.c",
+        "nsfw": false,
+        "type": 0,
+        "extra": {
+            "gfw": false
+        }
+    }
+]
